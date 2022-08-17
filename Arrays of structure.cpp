@@ -10,5 +10,8 @@ struct employee
 
 int main()
 {
-	struct employee fb[100];
+	struct employee facebook[100];
+	facebook[0].code=100;
+	facebook[0].salary=10000;
+	strcpy(facebook[0].name, "Anmol");
 }
