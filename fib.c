@@ -12,6 +12,6 @@ void main(){
     int num=10, i=0, c;
     for(c=1; c<=num;c++){
         printf("%d\n", fib(i));
-        i++;
+        i++; // increment
     }
 }
