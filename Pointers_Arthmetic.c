@@ -9,5 +9,4 @@ ptr++;
 //ptr = ptr +2;
 //ptr = ptr -2;
 printf("The Value of ptr is %u\n", ptr);
-
 }
